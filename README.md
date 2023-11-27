@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Kaleeshkumar
 - 👀 I’m interested in .... DotNet , web designing and mobile apps
-- 🌱 I’m currently learning ... Angular,.Net,ReactNative,Django,Mongodb
+- 🌱 I’m currently learning ... Angular, .Net, ReactNative, Django, Mongodb
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kaleeshkumar.r@gmail.com
 My Mobile Number 6383333101.
