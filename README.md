@@ -14,3 +14,5 @@ My Mobile Number 6383333101.
 Kaleeshkumar/Kaleeshkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Overview](https://github.com/PranavPurwar/PranavPurwar/blob/master/generated/overview.svg)
+![Most Used Languages](https://github.com/PranavPurwar/PranavPurwar/blob/master/generated/languages.svg)
